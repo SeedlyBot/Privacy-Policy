@@ -6,7 +6,9 @@ Seedly (“we”, “our”, “the bot”) respects your privacy. This Privacy 
 
 ### 1. Information We Collect
 Discord User IDs: to identify users and provide game features.
+
 Messages: only to provide in-game functionalities.
+
 Payment Information: collected only via secure platforms (e.g., Patreon, Discord payments).
 ### 2. How We Use Information
 To operate and improve the bot.
